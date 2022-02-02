@@ -1,0 +1,94 @@
+image:IMG_20200215_112749.jpg[IMG_20200215_112749,100,60,role=right]
+
+== Karolina Joanna Osuch +
+
+==== Personal Info
+
+:data-uri:
+[%hardbreaks]
+*Email:* __karolina.j.osuch@gmail.com__ 
+*Phone:* __+33 7 66 54 19 92__ 
+*https://www.linkedin.com/in/karolinajosuch[LinkedIn]*
+
+==== Education
+
+* *2020-10 - present* +
+[underline]##Massive Data Analyst##, certificat: CS5900 +
+Le CNAM (Le Conservatoire national des arts et métiers),
+Toulouse/France +
+** __Certificate of Specialisation Massive Data Analyst__
+***  Data storage and data mining/STA211 (Statistical data analysis, Decision statistics, Decision support, Data mining, the project in R... ),
+*** Documentary and distributed databases/NFE204 (NoSQL databases: Cassandra, MongoDB, CouchDB, ElasticSearch, PigLatin...),
+*** Engineering of massive data mining and visualization /RCP216 (Algorithme d'apprentissage, Data mining, Artificielle intelligence, Data flux, Datavisualisation,the project in Scala),
+*** Project Certificate Massive Data Analyst/UASB03(the use of all skills from the
+three subjects: STA211, NFE204, RCP216).
+
+* *2012-10 - 2014-06* +
+[underline]##Environmental Chemistry##, Bac +5 (Master of Science) University of Białymstoku, Bialystok/Poland
+** M.Sc thesis „ Application of „grafting to” method in synthesis of polymeric layer on magnetic particles” courses: polymers, air analysis, spectroscopic methods of analysis, methods of separation and concentration, physical chemistry in
+environmental protection, etc.
+
+* *2009-10 - 2012-07* +
+[underline]##Environmental Protection##, Bac +3
+The John Paul II Catholic University of Lublin, Lublin/Poland
+** B.Sc. thesis „Radioactive waste in Poland – sources, storage and utilisation methods” courses: organic chemistry, inorganic chemistry, general chemistry of the elements of physical chemistry, etc.
+
+==== Work History
+* *2018-09 - present* +
+[underline]##Professional Project##, Toulouse
+** Certificate of Specialisation Massive Data Analyst - Le CNAM (Le Conservatoire national des arts et métiers),
+** Skills development on the professional interactive data science platform (DataCamp). Development of several professional projects from dfief rent aspect of the data analysis (data mining, prediction, machine learning),
+** CREPT FORMATION, Formation Français Langue Étrangère à visée professionnelle - B1.
+
+==== Projects
+* *2021-02 - 2021-07* +
+[underline]#The publicity challenge#
+The task was to create a model that predicts whether a given image is an advertisement or not in the R language.
+* *2020-10 - 2021-07* +
+[underline]#Project Certificate Massive Data Analyst#
+The objective of this project at the end of the training was to perform a mass data analysis using the methods in the training.
+
+* *2020-10 - 2021-02* +
+[underline]#The two class discrimination# (text by Racine or Corneille) based on the characteristics of the text
+The objective of the project was to propose a model that classifies the texts of the two French writers Corneille and Racine in the Scala language
+
+==== IT Skills
+|===
+|IT Skills | Note
+
+|Python 
+|4/5
+|R 
+|3/5
+|Scala
+|3/5
+|Docker 
+|4/5
+|NoSQL 
+|3/5
+|SQL 
+|3/5
+|Git/Github 
+|4/5
+|Jupyter
+|4/5
+|Zeppelin
+|4/5
+|Basic Web Skills(html, css, bootstrap)
+|3/5
+|===
+
+==== Languages
+|===
+|Languages | Note
+
+|English
+|4/5
+|French
+|3/5
+|Polish
+|5/5
+|===
+
+
+
